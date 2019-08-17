@@ -1,0 +1,6 @@
+name: MySpawners
+version: 1.0.0
+main: net.brcdev.myspawners.MySpawnersPlugin
+author: brc
+depend: [ShopGUIPlus]
+api-version: 1.13
