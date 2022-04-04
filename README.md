@@ -3,7 +3,7 @@ This repository contains an example Spigot plugin, MySpawners, created with use 
 It shows how to correctly implement a spawner provider which will be registered in ShopGUI+ and used for spawner items handling. 
 
 ## Building
-`mvn clean package`
+`./mvnw clean package`
 
 ## Using
 After you build the artifact using Maven command above, you can drop in the plugin to the `plugins` directory of your server along with regular ShopGUI+ plugin and see how it works.
